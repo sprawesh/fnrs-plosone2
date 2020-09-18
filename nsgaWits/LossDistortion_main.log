@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-08-26T19:23:08</date>
+  <millis>1566827588852</millis>
+  <sequence>0</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>nsgaFront.LossDistortionMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Total execution time: 116ms</message>
+</record>
+<record>
+  <date>2019-08-26T19:23:08</date>
+  <millis>1566827588883</millis>
+  <sequence>1</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>nsgaFront.LossDistortionMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Variables values have been writen to file VAR</message>
+</record>
+<record>
+  <date>2019-08-26T19:23:08</date>
+  <millis>1566827588883</millis>
+  <sequence>2</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>nsgaFront.LossDistortionMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Objectives values have been writen to file FUN</message>
+</record>
+<record>
+  <date>2019-08-26T19:23:08</date>
+  <millis>1566827588883</millis>
+  <sequence>3</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>nsgaFront.LossDistortionMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Quality indicators</message>
+</record>
+<record>
+  <date>2019-08-26T19:23:08</date>
+  <millis>1566827588899</millis>
+  <sequence>4</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>nsgaFront.LossDistortionMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Hypervolume: 0.8326673901333825</message>
+</record>
+<record>
+  <date>2019-08-26T19:23:08</date>
+  <millis>1566827588899</millis>
+  <sequence>5</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>nsgaFront.LossDistortionMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>GD         : 0.0</message>
+</record>
+<record>
+  <date>2019-08-26T19:23:08</date>
+  <millis>1566827588899</millis>
+  <sequence>6</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>nsgaFront.LossDistortionMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>IGD        : 0.0</message>
+</record>
+<record>
+  <date>2019-08-26T19:23:08</date>
+  <millis>1566827588899</millis>
+  <sequence>7</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>nsgaFront.LossDistortionMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Spread     : 0.6152033136323882</message>
+</record>
+<record>
+  <date>2019-08-26T19:23:08</date>
+  <millis>1566827588899</millis>
+  <sequence>8</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>nsgaFront.LossDistortionMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Epsilon    : 0.0</message>
+</record>
+<record>
+  <date>2019-08-26T19:23:08</date>
+  <millis>1566827588899</millis>
+  <sequence>9</sequence>
+  <logger>jMetal</logger>
+  <level>INFO</level>
+  <class>nsgaFront.LossDistortionMain</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Speed      : 0 evaluations</message>
+</record>
+</log>
